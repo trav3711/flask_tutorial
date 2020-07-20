@@ -1,6 +1,6 @@
 # I made a simple blog app using Flask
 
-###I followed this [tutorial](https://flask.palletsprojects.com/en/1.1.x/tutorial/)
+### I followed this [tutorial](https://flask.palletsprojects.com/en/1.1.x/tutorial/)
 
 Some things I learned and that this tutorial taught:
 
